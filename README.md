@@ -29,13 +29,21 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch Lightning-792EE5?style=flat-square&logo=pytorchlightning&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
+<h4 align="center">✨ Tools ✨</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Final Cut Pro X-000000?style=flat-square&logo=apple&logoColor=white"/></a>&nbsp 
+</p>
 
 <!--
 **nannullna/nannullna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
