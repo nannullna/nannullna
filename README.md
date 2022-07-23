@@ -2,8 +2,6 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
-<p align="center"> (in the order of fluency...) </p>
-
 <h4 align="center">👾 Programming Language 👾</h4>
 
 <p align="center">
