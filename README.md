@@ -3,15 +3,15 @@
 <h3 align="left">🛠 Publications 🛠</h3>
 
 <ul>
-  <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models</br>
+  <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://deployinggenerativeai.github.io/">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
   
-  <li>Modeling uplift from observational time-series in continual scenarios</br>
+  <li>Modeling uplift from observational time-series in continual scenarios [<a href="https://openreview.net/forum?id=pKyB5wMnTiy">paper</a>] [<a href="https://github.com/nannullna/ts-uplift">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee</i></br>
   AAAI23 Bridge on Continual Casality (oral presentation), 2023</li>
 
-  <li>A simple yet powerful deep active learning with snapshot ensembles</br>
+  <li>A simple yet powerful deep active learning with snapshot ensembles [<a href="https://openreview.net/forum?id=IVESH65r0Ar">paper</a>] [<a href="https://github.com/nannullna/snapshot-al">code</a>]</br>
   <i>Seohyeon Jung*, <b>Sanghyun Kim</b>*, Juho Lee</i></br>
   (*: Equal Contribution)</br>
   ICLR 2023</li>
