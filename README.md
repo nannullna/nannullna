@@ -7,7 +7,7 @@
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
   
-  <li>Modeling uplift from observational time-series in continual scenarios [<a href="https://openreview.net/forum?id=pKyB5wMnTiy">paper</a>] [<a href="https://github.com/nannullna/ts-uplift">code</a>]</br>
+  <li>Modeling uplift from observational time-series in continual scenarios [<a href="https://openreview.net/forum?id=pKyB5wMnTiy">paper</a>] [<a href="https://github.com/nannullna/ts4uplift">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee</i></br>
   AAAI23 Bridge on Continual Casality (oral presentation), 2023</li>
 
