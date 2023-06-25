@@ -9,7 +9,7 @@
   
   <li>Modeling uplift from observational time-series in continual scenarios [<a href="https://openreview.net/forum?id=pKyB5wMnTiy">paper</a>] [<a href="https://github.com/nannullna/ts4uplift">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee</i></br>
-  AAAI23 Bridge on Continual Casality (oral presentation), 2023</li>
+  AAAI23 Bridge on Continual Casality (<b>oral presentation</b>), 2023</li>
 
   <li>A simple yet powerful deep active learning with snapshot ensembles [<a href="https://openreview.net/forum?id=IVESH65r0Ar">paper</a>] [<a href="https://github.com/nannullna/snapshot-al">code</a>]</br>
   <i>Seohyeon Jung*, <b>Sanghyun Kim</b>*, Juho Lee</i></br>
