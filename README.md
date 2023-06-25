@@ -1,10 +1,29 @@
-<p align="center">🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇯🇵 🇲🇳 🇨🇳 🇶🇦 🇷🇼 🇰🇪</p>
+<p align="center">🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇯🇵 🇲🇳 🇨🇳 🇲🇾 🇶🇦 🇷🇼 🇰🇪</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="left">🛠 Publications 🛠</h3>
 
-<h4 align="center">👾 Programming Language 👾</h4>
+<ul>
+  <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models</br>
+  <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
+  ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
+  
+  <li>Modeling uplift from observational time-series in continual scenarios</br>
+  <i><b>Sanghyun Kim</b>, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee</i></br>
+  AAAI23 Bridge on Continual Casality (oral presentation), 2023</li>
 
-<p align="center">
+  <li>A simple yet powerful deep active learning with snapshot ensembles</br>
+  <i>Seohyeon Jung*, <b>Sanghyun Kim</b>*, Juho Lee</i></br>
+  (*: Equal Contribution)</br>
+  ICLR 2023</li>
+  
+</ul>
+
+
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+
+<h4 align="left">👾 Programming Language 👾</h4>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -16,9 +35,9 @@
   <img src="https://img.shields.io/badge/CUDA C++-76B900?style=flat-square&logo=nvidia&logoColor=white"/></a>&nbsp 
 </p>
 
-<h4 align="center">🧠 Framework & Library 🧠</h4>
+<h4 align="left">🧠 Framework & Library 🧠</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/matplotlib-11557c?style=flat-square"/></a>&nbsp 
@@ -34,9 +53,9 @@
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<h4 align="center">✨ Tools ✨</h4>
+<h4 align="left">✨ Tools ✨</h4>
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white"/></a>&nbsp 
