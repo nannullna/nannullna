@@ -3,7 +3,7 @@
 <h3 align="left">🛠 Publications 🛠</h3>
 
 <ul>
-  <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://deployinggenerativeai.github.io/">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
+  <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://arxiv.org/abs/2307.05977">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
   
