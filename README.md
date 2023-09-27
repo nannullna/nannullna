@@ -3,6 +3,15 @@
 <h3 align="left">🛠 Publications 🛠</h3>
 
 <ul>
+  
+  <li>Safeguard Text-to-Image Models With Human-Assisted Concept Removal</br>
+  <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
+  Under review.</li>
+  
+  <li>Slot-Mixup: A Simple Regularization for Multiple Instance Learning</br>
+  <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
+  Under review.</li>
+  
   <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://arxiv.org/abs/2307.05977">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
