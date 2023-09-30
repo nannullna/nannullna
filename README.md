@@ -4,11 +4,7 @@
 
 <ul>
   
-  <li>Safeguard Text-to-Image Models With Human-Assisted Concept Removal</br>
-  <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
-  Under review.</li>
-  
-  <li>Slot-Mixup: A Simple Regularization for Multiple Instance Learning</br>
+  <li>Revisiting Subsampling and Mixup for WSI Classification: A Slot-Attention-Based Approach</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
   Under review.</li>
   
