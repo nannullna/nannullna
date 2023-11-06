@@ -4,10 +4,6 @@
 
 <ul>
   
-  <li>Revisiting Subsampling and Mixup for WSI Classification: A Slot-Attention-Based Approach</br>
-  <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
-  Under review.</li>
-  
   <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://arxiv.org/abs/2307.05977">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ICML 2023 Workshop on Challenges of Deploying Generative AI</li>
