@@ -8,7 +8,7 @@
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   Under review.</li>
 
-  <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">paper</a>]</br>
+  <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">arXiv</a>]</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
   Under review.</li>
   
