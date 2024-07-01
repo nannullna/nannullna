@@ -6,11 +6,11 @@
 
   <li>Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion </br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
-  Under review.</li>
+  ECCV 2024</li>
 
   <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">arXiv</a>]</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
-  Under review.</li>
+  <!-- Under review.</li> -->
   
   <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://arxiv.org/abs/2307.05977">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
