@@ -6,7 +6,7 @@
 
   <li>Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion </br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
-  ECCV 2024 (to appear)</li> (Acceptance rate: 18.95%)
+  ECCV 2024 (to appear) (Acceptance rate: 18.95%)</li> 
 
   <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">arXiv</a>]</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
@@ -23,7 +23,7 @@
   <li>A simple yet powerful deep active learning with snapshot ensembles [<a href="https://openreview.net/forum?id=IVESH65r0Ar">paper</a>] [<a href="https://github.com/nannullna/snapshot-al">code</a>]</br>
   <i>Seohyeon Jung*, <b>Sanghyun Kim</b>*, Juho Lee</i></br>
   (*: Equal Contribution)</br>
-  ICLR 2023</li> (Acceptance rate: 24.30%)
+  ICLR 2023 (Acceptance rate: 24.30%)</li> 
   
 </ul>
 
