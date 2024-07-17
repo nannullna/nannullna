@@ -1,4 +1,4 @@
-<p align="center">🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇯🇵 🇲🇳 🇨🇳 🇲🇾 🇶🇦 🇷🇼 🇰🇪</p>
+<p align="center">🇰🇷 🇺🇸 🇦🇺 🇸🇬 🇯🇵 🇲🇳 🇨🇳 🇲🇾 🇶🇦 🇷🇼 🇰🇪 🇻🇳 🇫🇷 🇮🇹</p>
 
 <h3 align="left">🛠 Publications 🛠</h3>
 
@@ -10,6 +10,7 @@
 
   <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">arXiv</a>]</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
+  ariXiv preprint.</li>
   <!-- Under review.</li> -->
   
   <li>Towards safe self-distillation of Internet-scale text-to-image diffusion models [<a href="https://arxiv.org/abs/2307.05977">paper</a>] [<a href="https://github.com/nannullna/safe-diffusion">code</a>]</br>
@@ -18,7 +19,7 @@
   
   <li>Modeling uplift from observational time-series in continual scenarios [<a href="https://openreview.net/forum?id=pKyB5wMnTiy">paper</a>] [<a href="https://github.com/nannullna/ts4uplift">code</a>] [<a href="https://proceedings.mlr.press/v208/kim23a.html">PMLR</a>] </br>
   <i><b>Sanghyun Kim</b>, Jungwon Choi, NamHee Kim, Jaesung Ryu, Juho Lee</i></br>
-  AAAI23 Bridge on Continual Casality (<b>oral presentation</b>), 2023</li>
+  AAAI 2023 Bridge on Continual Casality (<b>oral presentation</b>), 2023</li>
 
   <li>A simple yet powerful deep active learning with snapshot ensembles [<a href="https://openreview.net/forum?id=IVESH65r0Ar">paper</a>] [<a href="https://github.com/nannullna/snapshot-al">code</a>]</br>
   <i>Seohyeon Jung*, <b>Sanghyun Kim</b>*, Juho Lee</i></br>
