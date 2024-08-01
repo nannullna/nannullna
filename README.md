@@ -6,7 +6,7 @@
 
   <li>Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion [<a href="https://arxiv.org/abs/2407.21032">paper</a>] [<a href="https://github.com/nannullna/safeguard-hfi">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
-  ECCV 2024 ((Acceptance rate: 27.9%)</li> 
+  ECCV 2024 (Acceptance rate: 27.9%)</li> 
 
   <li>Slot-Mixup with Subsampling: A Simple Regularization for WSI Classification [<a href="https://arxiv.org/abs/2311.17466">arXiv</a>]</br>
   <i>Seongho Keum, <b>Sanghyun Kim</b>, Soojeong Lee, Juho Lee</i></br>
