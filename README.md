@@ -4,6 +4,10 @@
 
 <ul>
 
+  <li>Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models [<a href="https://arxiv.org/abs/2412.00357">paper</a>]</li></br>
+  <i><b>Sanghyun Kim</b>, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
+  arXiv preprint.</li>
+
   <li>Safeguard Text-to-Image Diffusion Models with Human Feedback Inversion [<a href="https://arxiv.org/abs/2407.21032">paper</a>] [<a href="https://github.com/nannullna/safeguard-hfi">code</a>]</br>
   <i><b>Sanghyun Kim</b>, Seohyeon Jung, Balhae Kim, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   ECCV 2024 (Acceptance rate: 27.9%)</li> 
