@@ -4,7 +4,7 @@
 
 <ul>
 
-  <li>Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models [<a href="https://arxiv.org/abs/2412.00357">paper</a>]</li></br>
+  <li>Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models [<a href="https://arxiv.org/abs/2412.00357">paper</a>]</br>
   <i><b>Sanghyun Kim</b>, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   arXiv preprint.</li>
 
