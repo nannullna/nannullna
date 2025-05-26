@@ -4,6 +4,10 @@
 
 <ul>
 
+  <li>Model Already Knows the Best Noise: Bayesian Active Noise Selection via Attention in Video Diffusion Model [<a href="https://www.arxiv.org/abs/2505.17561">paper</a>]</br>
+  <i>Kwanyoung Kim, <b>Sanghyun Kim</b></i></br>
+  arXiv preprint.</li>
+
   <li>Safety Alignment Backfires: Preventing the Re-emergence of Suppressed Concepts in Fine-tuned Text-to-Image Diffusion Models [<a href="https://arxiv.org/abs/2412.00357">paper</a>]</br>
   <i><b>Sanghyun Kim</b>, Moonseok Choi, Jinwoo Shin, Juho Lee</i></br>
   arXiv preprint.</li>
